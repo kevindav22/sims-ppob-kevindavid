@@ -8,7 +8,6 @@ Aplikasi web **SIMS PPOB** adalah project Assignment Front End Programmer untuk 
 
 **API Documentation**: [Nutech API Docs](https://api-doc-tht.nutech-integrasi.com/)
 
----
 
 ## Cara Menjalankan Secara Lokal
 
@@ -25,3 +24,18 @@ Aplikasi web **SIMS PPOB** adalah project Assignment Front End Programmer untuk 
 3. Build Produksi
    ```bash
    npm run build
+
+
+## Screenshot Aplikasi
+
+Login & Dashboard
+
+<img src="./documentation/page_login.png" width="400" /> <img src="./documentation/page_dashboard.png" width="400" />
+
+Top Up & Transaksi
+
+<img src="./documentation/page_topup.png" width="400" /> <img src="./documentation/page_transaction.png" width="400" />
+
+History & Profile
+
+<img src="./documentation/page_history.png" width="400" /> <img src="./documentation/page_profile.png" width="400" />
